@@ -13,7 +13,7 @@ const Header = () => {
                 <span className="gpt-title">MIDJOURNEY</span>
                 <span className="gpt-subtitle">WEB</span>
             </div>
-            <p className="mt-1 opacity-60 ">
+            {/* <p className="mt-1 opacity-60 ">
                 Powered by
                 <a
                     className="b-buy-link ml-1 decoration-wavy underline-offset-8"
@@ -22,7 +22,7 @@ const Header = () => {
                 >
                      ConnectAI-E
                 </a>
-            </p>
+            </p> */}
         </header>
     );
 };
